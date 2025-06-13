@@ -1,5 +1,5 @@
 // const socket = io('http://localhost:8000');
-const socket = io(https://live-chat-nhke.onrender.com);
+const socket = io('https://live-chat-nhke.onrender.com');
 
 const form =document.getElementById('send-container');
 const messageInput =document.getElementById('messageInp');
